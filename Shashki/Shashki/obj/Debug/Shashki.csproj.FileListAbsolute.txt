@@ -1,0 +1,18 @@
+D:\Visual studio projects\Shashki\Shashki\bin\Debug\Shashki.exe.config
+D:\Visual studio projects\Shashki\Shashki\bin\Debug\Shashki.exe
+D:\Visual studio projects\Shashki\Shashki\bin\Debug\Shashki.pdb
+D:\Visual studio projects\Shashki\Shashki\obj\Debug\Shashki.csprojAssemblyReference.cache
+D:\Visual studio projects\Shashki\Shashki\obj\Debug\Shashki.Form1.resources
+D:\Visual studio projects\Shashki\Shashki\obj\Debug\Shashki.Properties.Resources.resources
+D:\Visual studio projects\Shashki\Shashki\obj\Debug\Shashki.csproj.GenerateResource.cache
+D:\Visual studio projects\Shashki\Shashki\obj\Debug\Shashki.exe
+D:\Visual studio projects\Shashki\Shashki\obj\Debug\Shashki.pdb
+D:\Visual_studio_projects\Shashki\Shashki\bin\Debug\Shashki.exe.config
+D:\Visual_studio_projects\Shashki\Shashki\bin\Debug\Shashki.exe
+D:\Visual_studio_projects\Shashki\Shashki\bin\Debug\Shashki.pdb
+D:\Visual_studio_projects\Shashki\Shashki\obj\Debug\Shashki.csprojAssemblyReference.cache
+D:\Visual_studio_projects\Shashki\Shashki\obj\Debug\Shashki.Form1.resources
+D:\Visual_studio_projects\Shashki\Shashki\obj\Debug\Shashki.Properties.Resources.resources
+D:\Visual_studio_projects\Shashki\Shashki\obj\Debug\Shashki.csproj.GenerateResource.cache
+D:\Visual_studio_projects\Shashki\Shashki\obj\Debug\Shashki.exe
+D:\Visual_studio_projects\Shashki\Shashki\obj\Debug\Shashki.pdb
